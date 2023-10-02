@@ -2,7 +2,7 @@
   "name": "monochrome-color-theme",
   "displayName": "monochrome.",
   "description": "A monochromatic color theme without additional nonsense.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Simo Janhunen",
   "publisher": "simojanhunen",
   "repository": "https://github.com/simojanhunen/monochrome",
@@ -16,6 +16,7 @@
     "color": "#101010",
     "theme": "dark"
   },
+  "icon": "assets/icon.png",
   "license": "(MIT OR Apache-2.0)",
   "keywords": [
       "mono",

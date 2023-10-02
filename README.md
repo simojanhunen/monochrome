@@ -9,8 +9,8 @@
     </div>
     <br>
     <div>
-    <a><img src="https://img.shields.io/visual-studio-marketplace/v/simojanhunen.monochrome?color=101010&style=for-the-badge"/></a>
-    <a><img src="https://img.shields.io/visual-studio-marketplace/i/simojanhunen.monochrome?color=101010&style=for-the-badge"/></a>
+    <a><img src="https://img.shields.io/visual-studio-marketplace/v/simojanhunen.monochrome-color-theme?color=101010&style=for-the-badge"/></a>
+    <a><img src="https://img.shields.io/visual-studio-marketplace/i/simojanhunen.monochrome-color-theme?color=101010&style=for-the-badge"/></a>
     <a><img src="https://img.shields.io/github/license/simojanhunen/monochrome?color=101010&style=for-the-badge"/></a>
     </div>
 </div>
