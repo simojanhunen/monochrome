@@ -1,0 +1,36 @@
+{
+  "name": "monochrome-color-theme",
+  "displayName": "monochrome.",
+  "description": "A monochromatic color theme without additional nonsense.",
+  "version": "0.0.1",
+  "author": "Simo Janhunen",
+  "publisher": "simojanhunen",
+  "repository": "https://github.com/simojanhunen/monochrome",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#101010",
+    "theme": "dark"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "keywords": [
+      "mono",
+      "chrome",
+      "monochrome",
+      "monochromatic",
+      "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monochrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monochrome-color-theme.json"
+      }
+    ]
+  }
+}
