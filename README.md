@@ -24,7 +24,7 @@
 # 🔌 Installation
 
 - Launch Quick Open with `Cmd+P` or `Ctrl+P`
-- Paste the command `ext install nord-dark-contrast`
+- Paste the command `ext install monochrome-color-theme`
 - Click __Install__ to install it
 - Click __Reload__ to reload your editor
 - Code/File ＞ Preferences ＞ Color Theme ＞ `Monochrome`<br><br>

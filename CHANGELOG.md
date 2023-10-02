@@ -12,3 +12,8 @@
 
 ### Updated
 - Minor typo fixes
+
+## [0.0.3] - 2023-10-02
+
+### Updated
+- Minor typo fixes
